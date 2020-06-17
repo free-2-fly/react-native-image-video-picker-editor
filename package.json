@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blazerroad/react-native-image-video-picker-editor.git"
+    "url": "git+https://github.com/free-2-fly/react-native-image-video-picker-editor.git"
   },
   "dependencies": {
     "@react-native-community/cameraroll": "^1.7.2",
@@ -34,10 +34,7 @@
     "camera",
     "photo gallery"
   ],
-  "author": "BlazerRoad",
+  "author": "free-2-fly",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/blazerroad/react-native-image-video-picker-editor/issues"
-  },
-  "homepage": "https://github.com/blazerroad/react-native-image-video-picker-editor#readme"
+  "homepage": "https://github.com/free-2-fly/react-native-image-video-picker-editor#readme"
 }

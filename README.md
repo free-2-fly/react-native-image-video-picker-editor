@@ -3,8 +3,13 @@
 
 iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
 
+## Result
 
 <p align="left">
+  <img width=200 title="iOS Single Pick" src="./gifs/demo1.gif">
+  <img width=200 title="iOS Multiple Pick" src="./gifs/demo2.gif">
+  <img width=200 title="iOS Crop Normal" src="./gifs/demo3.gif">
+  <img width=200 title="iOS Crop Circular" src="./gifs/demo4.gif">
 </p>
 
 ## Important note
